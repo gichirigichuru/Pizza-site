@@ -97,6 +97,12 @@ figcaption {
     padding: 0;
 }
 
+.menu-overlay {
+    height: inherit;
+    width: inherit;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
 
 
 
