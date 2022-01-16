@@ -77,6 +77,26 @@ h2 {
     font-family: 'Shadows Into Light', cursive;
 }
 
+.menu-btn {
+    border-radius: 20px;
+    margin-top: 20px;
+    color: #000;
+}
+
+figcaption {
+    font-family: 'Oswald', serif;
+}
+
+#menu {
+    padding-top: 20px;
+}
+
+.menu {
+    margin-top: 30px;
+    background-image: url("../images/sec/b4.jpg");
+    padding: 0;
+}
+
 
 
 
