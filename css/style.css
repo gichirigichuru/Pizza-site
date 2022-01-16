@@ -1,12 +1,15 @@
-body {
-    margin: 0;
-    padding: 0;
-    color: rgb(0, 0, 0);
-    overflow-x: hidden;
-}
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Love+Ya+Like+A+Sister|Special+Elite&display=swap');
 
 .navi {
-    float: left;
+    float: right;
 }
-
-
+#piz-pap {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 35px;
+    font-weight: normal;
+    color: darkorange;
+}
+#spantext {
+    color: yellow;
+}
