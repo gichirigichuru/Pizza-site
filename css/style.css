@@ -154,7 +154,12 @@ li a{
     color: white;
 }
 
-
+.smed i {
+    color: rgb(39, 34, 34);
+    font-size: 40px;
+    margin: 10px;
+    padding-top: 10px;
+}
 
 
 
