@@ -50,3 +50,30 @@ h2 {
     color: yellow;
 }
     
+.welcome {
+    padding-top: 30px;
+}
+
+.karibu-img {
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-bottom: 130px;
+    height: 400px;
+    width: 400px;
+}
+
+.karibu-txt {
+    margin-top: 160px;
+}
+
+.txt {
+    font-family: system-ui, cursive;
+    color: black;
+    font-size: 23px;
+}
+
+.txt-big {
+    font-size: 50px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
