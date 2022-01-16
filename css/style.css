@@ -21,3 +21,32 @@
     background-position: center center;
     background-repeat: no-repeat;
 }
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100%;
+}
+
+#push {
+    padding-top: 10%;
+}
+
+.landing-text {
+    margin-top: 10%;
+}
+
+.landing-text h1,
+h2 {
+    font-family: 'Love Ya Like A Sister', cursive;
+}
+
+.landing-text h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 60px;
+}
+
+
+.exc {
+    color: yellow;
+}
+    
