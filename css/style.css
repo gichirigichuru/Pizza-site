@@ -162,7 +162,7 @@ li a{
 }
 .contact{
     
-    background-image: url("../images/sec/b1.jpg");
+    background-image: url("../images/sec/b1.jp");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -170,6 +170,11 @@ li a{
     text-align: center;
     color: antiquewhite;
 }
+.icons{
+    padding-left: 40%;
+    
+}
+
 
 
 
