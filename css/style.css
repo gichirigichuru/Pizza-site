@@ -161,14 +161,18 @@ li a{
     padding-top: 10px;
 }
 .contact{
-    
-    background-image: url("../images/sec/b1.jp");
+    height: inherit;
+    padding: 20px;
+    background-color: white);
+    border-radius: 20px;
+
     background-repeat: no-repeat;
     background-size: cover;
 }
 .orders h1{
     text-align: center;
     color: antiquewhite;
+    
 }
 .icons{
     padding-left: 40%;
