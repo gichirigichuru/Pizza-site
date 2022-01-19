@@ -43,3 +43,6 @@ $(document).ready(function() {
             userInput.newFlavor) *
           userInput.newQuantity;
     
+        //prompts for the user
+        alert("Your charges for Pizza" + totalCost);
+    
